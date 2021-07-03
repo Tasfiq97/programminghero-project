@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 50px;
+}
+span {
+  color: green;
+}
+.build-color {
+  text-transform: uppercase;
+}
+.main-head {
+  display: flex;
+  flex-direction: row;
+  background-image: url(/images/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+.head-sec {
+  width: 50%;
+  padding: 60px;
+}
+.head-sec img {
+  width: 90%;
+}
+
+.hire-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(174, 0, 255), rgb(0, 92, 128));
+  color: white;
+  border-radius: 10px;
+  padding: 14px 20px;
+}
