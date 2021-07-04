@@ -24,7 +24,7 @@ span {
   padding: 60px;
 }
 .head-sec img {
-  width: 90%;
+  width: 80%;
 }
 
 .hire-button {
@@ -33,4 +33,22 @@ span {
   color: white;
   border-radius: 10px;
   padding: 14px 20px;
+}
+
+.dream-sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.full-sec {
+  width: 50%;
+  padding: 60px;
+}
+
+.full-sec img {
+  width: 80%;
 }
